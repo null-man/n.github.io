@@ -4,26 +4,21 @@
   
   
   <entry>
-    <title>My First Post</title>
-    <link href="/n.github.io/2024/06/19/My-First-Post/"/>
-    <url>/n.github.io/2024/06/19/My-First-Post/</url>
+    <title>一个帅哥的日记</title>
+    <link href="/n.github.io/2024/06/19/%E4%B8%80%E4%B8%AA%E5%B8%85%E5%93%A5%E7%9A%84%E6%97%A5%E8%AE%B0/"/>
+    <url>/n.github.io/2024/06/19/%E4%B8%80%E4%B8%AA%E5%B8%85%E5%93%A5%E7%9A%84%E6%97%A5%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>How to build a bolg with Hexo on Github</title>
-    <link href="/n.github.io/2024/06/18/How-to-build-a-bolg-with-Hexo-on-Github/"/>
-    <url>/n.github.io/2024/06/18/How-to-build-a-bolg-with-Hexo-on-Github/</url>
-    
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>摘要</p><span id="more"></span><p>正文正文正文正文正文正文正文正文正文正文<br>八字八字白字八字八字白字八字八字白字八字八字白字</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+      <tag>mac</tag>
+      
+    </tags>
     
   </entry>
   
